@@ -1,0 +1,10 @@
+{"1.1.0",
+[{<<"ast_walk">>,{pkg,<<"ast_walk">>,<<"0.3.1">>},1},
+ {<<"exat">>,
+  {git,"git://github.com/marianoguerra/exat.git",
+       {ref,"ba8258bd63c353928d64ab423f45e01b7afbd4bd"}},
+  0}]}.
+[
+{pkg_hash,[
+ {<<"ast_walk">>, <<"3E513446DCEF39ADB62DD578AEEA32E1DA6802482170A2E7500B2F0575E14ABF">>}]}
+].
